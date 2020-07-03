@@ -1,7 +1,4 @@
-// https://www.hackerrank.com/challenges/coin-change/problem
-// good problem if you are starting with dynamic progmming.
 
-// Here's the code .
 
 #include"bits/stdc++.h"
 using namespace std;
